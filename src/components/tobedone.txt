@@ -1,0 +1,2 @@
+1. Edit functionality
+2. Delete functionality
